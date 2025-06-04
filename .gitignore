@@ -3,6 +3,8 @@
 
 # dotenv environment variables
 .env
+server/.env
+client/.env
 
 # logs
 logs
